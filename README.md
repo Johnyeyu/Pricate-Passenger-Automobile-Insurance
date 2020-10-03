@@ -8,6 +8,15 @@ dollars of claim losses’ and the ‘total number of autos’ insured.
 
 In our case study, we consider the risk factors, say, gender, geographical location and insurance scores, to have an affect on the relative risk of a policy.
 
+An insurer’s ability in predicting a policy’s ultimate cost, determines how accurately a product is priced, and the extent to which adverse selection can be avoided. 
+Under Property and Casualty Insurance, for example, say for a building, multiple factors such as the age of the insured building, its type of construction, its usage, are used to determine an appropriate premium (reflection of policy cost).
+Insurers use predictive analytics to target potential clients, study their approach towards an insurance purchase, determine market specific products and 
+identify potentially fraudulent claims.
+
+Insurance policy makers weigh and combine selected credit attributes related to the concerned entity, to develop a single ‘insurance score’. This  gets added as a risk factor in accurately assessing the propensity for an insurance loss. 
+
+
+
 
 •Note: . ‘Pure premium’ is
 calculated in dollars, throughout our case study, even if it is
