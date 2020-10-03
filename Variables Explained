@@ -1,0 +1,33 @@
+The variables play an important role in Regression analysis and thus need to be carefully selected and used. 
+The Pure Premium will serve as the dependant variable and the other variables (which affect it) become independent variables.
+
+N- Residence in Geographical location North
+
+S- Residence in Geographical location South
+
+F- Gender of the applicant (Female)
+
+M- Gender of the applicant (Male)
+
+
+F*N- Applicant is a Female Resident in Geographical location North
+
+F*S- Applicant is a Female Resident in Geographical location South
+
+M*N- Applicant is a Female Resident in Geographical location South
+
+M*S- Applicant is a Female Resident in Geographical location South
+
+
+I- Applicant’s insurance Score
+
+Univariate Analysis
+We will be performing univariate analysis using two models:
+
+
+
+•We
+will select the model with the ‘best fit’ i.e. estimates the pure premium
+value for an individual in the best possible way.    
+
+
