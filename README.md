@@ -1,4 +1,4 @@
-# Pricate-Passenger-Automobile-Insurance
+# Private-Passenger-Automobile-Insurance
 
 Our objective is to understand the relative risk of a policy, for each individual.
 The relative risk of a policy, for each individual is given by relative pure premium, which is the ratio between pure premium for the individual and base pure premium (a particular pure premium value, taken as base).  
